@@ -47,6 +47,4 @@ The repository contains the complete Altium project files, including:
 
 
 
-## Schematic
 
-_Add schematic image here_
