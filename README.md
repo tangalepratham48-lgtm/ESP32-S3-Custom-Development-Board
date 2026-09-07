@@ -47,11 +47,11 @@ The repository contains the complete Altium project files, including:
 
 ## PCB 3D View
 
-![ESP32-S3 3D PCB View](ESP-32-S3-3D view.png)
+![ESP32-S3 3D PCB View](ESP-32-S3-3D-view.png)
 
 ## PCB Layout
 
-![ESP32-S3 PCB Layout](ESP32-S3-PCB Layout.png)
+![ESP32-S3 PCB Layout](ESP32-S3-PCB-Layout.png)
 
 ## Schematic
 
